@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 find /boot -maxdepth 1 -ls
+=======
+ls -la . .. /boot
+>>>>>>> 59e09cdf533bac523edb1ab330cb52622802788d
